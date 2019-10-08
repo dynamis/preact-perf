@@ -6,6 +6,7 @@
   "scripts": {
     "start": "opener http://localhost:3000 && http-server -p 3000",
     "deploy": "gh-pages -d .",
+    "now-build": "echo This is dummy task...",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
